@@ -13,3 +13,9 @@ Q: Can I use a cam to capture and publish photos?
 A: Have a look here
 * http://www.arducam.com/tag/esp8266-websocket/
 
+Q. How to use ESP8266 as a scale?  
+A: Yoghurt scale  
+* https://tinker.yeoman.com.au/2016/07/24/iot-container/
+
+
+
