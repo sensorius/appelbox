@@ -1,5 +1,7 @@
-# bacon
-ESP8266 project to measure environmental data
+# appelbox
+An ESP8266 project to measure environmental data
+
+2016/11/14 - Project renamed from *bacon* to *appelbox*
 
 
 FAQ:
